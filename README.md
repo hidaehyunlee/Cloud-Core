@@ -4,7 +4,7 @@
 
 <br>
 
-![CloudCore_수강인증서](C:\Users\DaeHyun Lee\Desktop\42report\public\CloudCore_수강인증서.JPG)
+![CloudCore_수강인증서](https://user-images.githubusercontent.com/37580034/85190342-6f752780-b2f2-11ea-9a33-4f5df722b030.JPG)
 
 
 
